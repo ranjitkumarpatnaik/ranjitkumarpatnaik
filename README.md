@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjitkumarpatnaik&label=Profile%20views&color=0e75b6&style=flat" alt="ranjitkumarpatnaik" /> </p>
 
-<p align="left"> <a href="https://twitter.com/r_a_n_j_i_t_" target="blank"><img src="https://img.shields.io/twitter/follow/r_a_n_j_i_t_?logo=twitter&style=for-the-badge" alt="r_a_n_j_i_t" /></a> </p>
+<p align="left"> <a href="https://twitter.com/r_a_n_j_i_t_" target="blank"><img src="https://img.shields.io/twitter/follow/r_a_n_j_i_t_?logo=twitter&style=for-the-badge" alt="r_a_n_j_i_t" /></a> </p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
